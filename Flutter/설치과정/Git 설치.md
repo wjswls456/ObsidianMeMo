@@ -133,6 +133,23 @@
 
 ![[Pasted image 20231017122852.png]]
 
+📌✅**Enable file system caching** : 파일 시스템 캐싱을 활성화하여 상당한 성능 향상을 제공합니다.  
+📌**Enable symbolic links** : 심볼릭 링크를 활성화합니다. (SeCreateSymbolicLink 권한이 필요합니다.) 기존 리포지토리에는 이 설정이 적용되지 않습니다.
 
+
+📢실험적 기능 사용 여부를 선택하고 "Install"을 눌러줍니다.
+(말 그대로 실험적 기능, 개발중인 기능들입니다.  Git에 익숙하지 않으실 확률이 높으니 선택하지 않는 것을 권장드립니다.)
 
 ![[Pasted image 20231017122859.png]]
+
+📌**Enable experimental support for pseudo consoles** : winpty를 사용하지 않고 Git Bash에서 Node나 Python과 같은 콘솔을 실행할 수 있게 합니다. 그러나 몇 가지 버그가 있습니다.  
+📌**Enable experimental built-in file system monitor** : 'git status', 'git commit' 등과 같은 명령어 실행 속도를 높이기 위해 built-in file system monitor를 자동으로 실행합니다.
+
+
+📢 설치를 진행합니다.
+
+![[Pasted image 20231017142734.png]]
+
+📢"Finish"를 눌러 설치를 완료합니다.
+
+![[Pasted image 20231017142758.png]]
