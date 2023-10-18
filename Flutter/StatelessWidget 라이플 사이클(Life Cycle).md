@@ -9,6 +9,13 @@
 ![[Pasted image 20231018173226.png]]
 
 
+2 : createState -> state를 만들어요 
+3 : 상태를 만들면 intState(초기화)가 불립니다 = constructor도 불리지만 state에서 constructor는 하나도 중요하지가 않다
+4 : 나중에
+5 : 4번을 거치면서 더러운? 상태가 된다 
+6 : 5번이 변경이 필요하다
+
+8,9 : 죽는 상태가 된
 
 ## 파라미터가 바뀌었을때 생명주기
 
