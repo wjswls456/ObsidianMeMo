@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/설치 순서.md",
+                "file": "문서/버전관리.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c5f2d676a0449496",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/설치 순서.md",
+                "file": "문서/버전관리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/설치 순서.md",
+                "file": "문서/버전관리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/설치 순서.md"
+                "file": "문서/버전관리.md"
               }
             }
           }
@@ -160,23 +161,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "078de69c0271cad6",
+  "active": "e5db829a6df9b636",
   "lastOpenFiles": [
+    "img/Pasted image 20231018173145.png",
+    "문서/버전관리.md",
+    "문서",
+    "Flutter/설치 순서.md",
     "도커/컨테이너.md",
     "Flutter/StatelessWidget 라이플 사이클(Life Cycle).md",
-    "Pasted image 20231018173354.png",
-    "Pasted image 20231018173321.png",
-    "Pasted image 20231018173236.png",
-    "Pasted image 20231018173226.png",
-    "Pasted image 20231018173201.png",
-    "Pasted image 20231018173145.png",
+    "img/Pasted image 20231018173354.png",
+    "img/Pasted image 20231018173321.png",
+    "img/Pasted image 20231018173236.png",
+    "img/Pasted image 20231018173226.png",
+    "img/Pasted image 20231018173201.png",
     "Flutter/Widget.md",
     "Flutter/설치과정/Git 설치.md",
     "img/Pasted image 20231017142734.png",
     "img/Pasted image 20231017142758.png",
     "img/Pasted image 20231017122852.png",
     "img/Pasted image 20231017122846.png",
-    "Flutter/설치 순서.md",
     "Flutter/Flutter 정의.md",
     "Flutter/설치과정/안드로이드 스튜디오 설치.md",
     "도커/Docker.md",
