@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "문서/버전관리.md",
+                "file": "Flutter/StatelessWidget 라이플 사이클(Life Cycle).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "문서/버전관리.md",
+                "file": "Flutter/StatelessWidget 라이플 사이클(Life Cycle).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "문서/버전관리.md",
+                "file": "Flutter/StatelessWidget 라이플 사이클(Life Cycle).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "문서/버전관리.md"
+                "file": "Flutter/StatelessWidget 라이플 사이클(Life Cycle).md"
               }
             }
           }
@@ -160,11 +160,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e5db829a6df9b636",
+  "active": "078de69c0271cad6",
   "lastOpenFiles": [
+    "Flutter/Widget.md",
+    "Flutter/Flutter 정의.md",
+    "문서/버전관리.md",
     "Pasted image 20231019102824.png",
     "img/Pasted image 20231018173145.png",
-    "문서/버전관리.md",
     "문서",
     "Flutter/설치 순서.md",
     "도커/컨테이너.md",
@@ -174,13 +176,10 @@
     "img/Pasted image 20231018173236.png",
     "img/Pasted image 20231018173226.png",
     "img/Pasted image 20231018173201.png",
-    "Flutter/Widget.md",
     "Flutter/설치과정/Git 설치.md",
     "img/Pasted image 20231017142734.png",
     "img/Pasted image 20231017142758.png",
     "img/Pasted image 20231017122852.png",
-    "img/Pasted image 20231017122846.png",
-    "Flutter/Flutter 정의.md",
     "Flutter/설치과정/안드로이드 스튜디오 설치.md",
     "도커/Docker.md",
     "README.md"
