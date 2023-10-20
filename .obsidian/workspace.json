@@ -20,24 +20,31 @@
             }
           },
           {
-            "id": "3d0ec373dea9bebd",
+            "id": "8ca408fbca57050d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일 1.md",
+                "file": "버전 4.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "15e7e63c7a3c2cff",
+        "type": "tabs",
+        "children": [
           {
-            "id": "5c0b262c34b87bbc",
+            "id": "d4d3ad205095db0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일.md",
+                "file": "버전 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c5f2d676a0449496",
@@ -109,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SM/SM 문서.md",
+                "file": "버전 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SM/SM 문서.md",
+                "file": "버전 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SM/SM 문서.md"
+                "file": "버전 4.md"
               }
             }
           }
@@ -171,11 +179,68 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0ec06721d0b008d3",
+  "floating": {
+    "id": "4a754f925ca6952f",
+    "type": "floating",
+    "children": [
+      {
+        "id": "c76ec92462540150",
+        "type": "window",
+        "children": [
+          {
+            "id": "6ba251006b8e86cb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5c0b262c34b87bbc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "버전 1.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "34f0c77397b139cc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3d0ec373dea9bebd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "버전 2.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1299,
+        "y": -1044,
+        "width": 480,
+        "height": 480,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "8ca408fbca57050d",
   "lastOpenFiles": [
-    "무제 파일 1.md",
     "SM/SM 문서.md",
-    "무제 파일.md",
+    "버전 3.md",
+    "버전 2.md",
+    "버전 4.md",
+    "버전 1.md",
     "SM/버전관리.md",
     "SM/아키텍처V1.1.md",
     "SM",
