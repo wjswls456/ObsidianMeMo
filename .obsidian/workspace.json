@@ -161,7 +161,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -229,12 +230,12 @@
         "y": -1044,
         "width": 480,
         "height": 480,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "d4d3ad205095db0c",
+  "active": "ff1ed195a3727d48",
   "lastOpenFiles": [
     "버전 2.md",
     "버전 3.md",
