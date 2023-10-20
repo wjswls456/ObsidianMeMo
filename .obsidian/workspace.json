@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "688d386a02ee5bd4",
+        "id": "f819ed7272fd7308",
         "type": "tabs",
         "children": [
           {
-            "id": "dd87a8bea2e0238f",
+            "id": "fd3d714b98489675",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/StatelessWidget 라이플 사이클(Life Cycle).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "078de69c0271cad6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flutter/StatelessWidget 라이플 사이클(Life Cycle).md",
+                "file": "SM/SM 문서.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flutter/StatelessWidget 라이플 사이클(Life Cycle).md",
+                "file": "SM/SM 문서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flutter/StatelessWidget 라이플 사이클(Life Cycle).md",
+                "file": "SM/SM 문서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/StatelessWidget 라이플 사이클(Life Cycle).md"
+                "file": "SM/SM 문서.md"
               }
             }
           }
@@ -160,17 +147,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "078de69c0271cad6",
+  "active": "fd3d714b98489675",
   "lastOpenFiles": [
+    "SM/버전관리.md",
+    "SM/SM 문서.md",
+    "SM/아키텍처V1.1.md",
+    "SM",
+    "도커/Docker.md",
+    "Flutter/설치 순서.md",
+    "Flutter/Flutter.md",
     "Flutter/Widget.md",
-    "Flutter/Flutter 정의.md",
-    "문서/버전관리.md",
-    "Pasted image 20231019102824.png",
+    "Flutter/StatelessWidget 라이플 사이클(Life Cycle).md",
+    "도커/Docker 명령어.md",
+    "img/Pasted image 20231019102824.png",
     "img/Pasted image 20231018173145.png",
     "문서",
-    "Flutter/설치 순서.md",
     "도커/컨테이너.md",
-    "Flutter/StatelessWidget 라이플 사이클(Life Cycle).md",
     "img/Pasted image 20231018173354.png",
     "img/Pasted image 20231018173321.png",
     "img/Pasted image 20231018173236.png",
@@ -181,7 +173,6 @@
     "img/Pasted image 20231017142758.png",
     "img/Pasted image 20231017122852.png",
     "Flutter/설치과정/안드로이드 스튜디오 설치.md",
-    "도커/Docker.md",
     "README.md"
   ]
 }
