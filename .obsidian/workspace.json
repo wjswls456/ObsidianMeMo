@@ -33,24 +33,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "15e7e63c7a3c2cff",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d4d3ad205095db0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "정책/크몽.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "정책/크몽.md",
+                "file": "버전 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "정책/크몽.md",
+                "file": "버전 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "정책/크몽.md"
+                "file": "버전 4.md"
               }
             }
           }
@@ -231,16 +213,47 @@
         "height": 480,
         "maximize": false,
         "zoom": 0
+      },
+      {
+        "id": "0f89adbbe1f32b60",
+        "type": "window",
+        "children": [
+          {
+            "id": "8dfc2aa966304c45",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d4d3ad205095db0c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "정책/크몽.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -749,
+        "y": -844,
+        "width": 600,
+        "height": 824,
+        "maximize": false,
+        "zoom": 0
       }
     ]
   },
-  "active": "d4d3ad205095db0c",
+  "active": "8ca408fbca57050d",
   "lastOpenFiles": [
-    "버전 3.md",
     "정책/크몽.md",
+    "버전 4.md",
+    "버전 3.md",
     "정책",
     "버전 2.md",
-    "버전 4.md",
     "버전 1.md",
     "SM/SM 문서.md",
     "SM/버전관리.md",
