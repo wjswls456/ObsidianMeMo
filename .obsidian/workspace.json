@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "버전 1.md",
+                "file": "버전 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "버전 1.md",
+                "file": "버전 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "버전 1.md"
+                "file": "버전 3.md"
               }
             }
           }
@@ -234,12 +234,12 @@
       }
     ]
   },
-  "active": "5c0b262c34b87bbc",
+  "active": "d4d3ad205095db0c",
   "lastOpenFiles": [
-    "버전 4.md",
-    "버전 3.md",
-    "버전 1.md",
     "버전 2.md",
+    "버전 3.md",
+    "버전 4.md",
+    "버전 1.md",
     "SM/SM 문서.md",
     "SM/버전관리.md",
     "SM/아키텍처V1.1.md",
