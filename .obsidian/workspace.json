@@ -4,27 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4d96575aaa8fafe5",
+        "id": "447305b0659ba663",
         "type": "tabs",
         "children": [
           {
-            "id": "0ec06721d0b008d3",
+            "id": "41d952b8e0df6faf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timart SM 문서 양식.md",
+                "file": "SM/Timart SM 문서 양식.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "8ca408fbca57050d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -93,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timart SM 문서 양식.md",
+                "file": "SM/Timart SM 문서 양식.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Timart SM 문서 양식.md",
+                "file": "SM/Timart SM 문서 양식.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Timart SM 문서 양식.md"
+                "file": "SM/Timart SM 문서 양식.md"
               }
             }
           }
@@ -156,73 +148,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "4a754f925ca6952f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "c76ec92462540150",
-        "type": "window",
-        "children": [
-          {
-            "id": "6ba251006b8e86cb",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5c0b262c34b87bbc",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "버전 1.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "34f0c77397b139cc",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "3d0ec373dea9bebd",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "버전 2.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1299,
-        "y": -1044,
-        "width": 480,
-        "height": 480,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "0ec06721d0b008d3",
+  "active": "41d952b8e0df6faf",
   "lastOpenFiles": [
-    "버전 2.md",
-    "버전 1.md",
-    "Timart SM 문서 양식.md",
+    "SM/아키텍처V1.1.md",
+    "SM/Timart SM 문서 양식.md",
+    "SM/버전관리.md",
     "SM/SM 문서.md",
+    "버전 1.md",
+    "버전 3.md",
+    "버전 2.md",
     "버전 4.md",
     "정책/크몽.md",
-    "버전 3.md",
     "정책",
-    "SM/버전관리.md",
-    "SM/아키텍처V1.1.md",
     "SM",
     "도커/Docker.md",
     "Flutter/설치 순서.md",
