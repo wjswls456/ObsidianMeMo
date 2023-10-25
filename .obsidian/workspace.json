@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SM/SM 문서.md",
+                "file": "Timart SM 문서 양식.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c5f2d676a0449496",
@@ -95,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Timart SM 문서 양식.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Timart SM 문서 양식.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Timart SM 문서 양식.md"
+              }
             }
           }
         ],
@@ -209,12 +211,13 @@
       }
     ]
   },
-  "active": "8ca408fbca57050d",
+  "active": "0ec06721d0b008d3",
   "lastOpenFiles": [
+    "버전 2.md",
+    "버전 1.md",
+    "Timart SM 문서 양식.md",
     "SM/SM 문서.md",
     "버전 4.md",
-    "버전 1.md",
-    "버전 2.md",
     "정책/크몽.md",
     "버전 3.md",
     "정책",
