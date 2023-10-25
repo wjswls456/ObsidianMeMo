@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "버전 1.md",
+                "file": "버전 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "버전 1.md",
+                "file": "버전 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "버전 1.md"
+                "file": "버전 4.md"
               }
             }
           }
@@ -217,11 +217,11 @@
       }
     ]
   },
-  "active": "5c0b262c34b87bbc",
+  "active": "8ca408fbca57050d",
   "lastOpenFiles": [
+    "버전 1.md",
     "버전 4.md",
     "SM/SM 문서.md",
-    "버전 1.md",
     "버전 2.md",
     "정책/크몽.md",
     "버전 3.md",
