@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SM/버전관리.md",
+                "file": "SM/Timart SM 문서 양식.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SM/버전관리.md",
+                "file": "SM/Timart SM 문서 양식.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SM/버전관리.md"
+                "file": "SM/Timart SM 문서 양식.md"
               }
             }
           }
@@ -162,10 +161,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4d5666724bba77d2",
+  "active": "41d952b8e0df6faf",
   "lastOpenFiles": [
-    "SM/Timart SM 문서 양식.md",
     "SM/버전관리.md",
+    "SM/Timart SM 문서 양식.md",
     "문서/화면 점검리스트.md",
     "SM/아키텍처V1.1.md",
     "SM/SM 문서.md",
