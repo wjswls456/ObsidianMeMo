@@ -31,7 +31,7 @@
 
 **5. 소스 개발 및 버전 관리:**
 
-- 사용하는 VCS(Version Control System) 소개 (예: Git, SVN 등)
+- Git 사용
 - 브랜치 전략 (예: Git Flow, GitHub Flow 등)
 - 주요 브랜치들의 역할 (예: master, develop, feature, hotfix 등)
 - 릴리즈 및 배포 전략 : [[버전관리]]
@@ -96,3 +96,11 @@
 ---
 
 **13. 참고 자료:**
+
+
+
+----
+
+애자일 방법론
+
+구글의 OKR
