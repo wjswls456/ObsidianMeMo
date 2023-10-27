@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "f21c98f30ed19ee6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "SM/데이터 흐름도.md"
+              }
+            }
+          },
+          {
             "id": "4d5666724bba77d2",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c5f2d676a0449496",
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SM/Timart SM 문서 양식.md",
+                "file": "SM/데이터 흐름도.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SM/Timart SM 문서 양식.md",
+                "file": "SM/데이터 흐름도.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SM/Timart SM 문서 양식.md"
+                "file": "SM/데이터 흐름도.md"
               }
             }
           }
@@ -161,10 +171,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "41d952b8e0df6faf",
+  "active": "e5db829a6df9b636",
   "lastOpenFiles": [
-    "SM/아키텍처V1.1.md",
     "SM/Timart SM 문서 양식.md",
+    "SM/데이터 흐름도.md",
+    "SM/데이터 흐름도.md",
+    "SM/아키텍처V1.1.md",
     "SM/버전관리.md",
     "문서/화면 점검리스트.md",
     "SM/SM 문서.md",
