@@ -41,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c5f2d676a0449496",
@@ -107,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SM/테스트 케이스.md",
+                "file": "SM/데이터 흐름도.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SM/테스트 케이스.md",
+                "file": "SM/데이터 흐름도.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SM/테스트 케이스.md"
+                "file": "SM/데이터 흐름도.md"
               }
             }
           }
@@ -170,10 +172,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "41d952b8e0df6faf",
+  "active": "f21c98f30ed19ee6",
   "lastOpenFiles": [
-    "SM/Timart SM 문서 양식.md",
     "SM/테스트 케이스.md",
+    "SM/Timart SM 문서 양식.md",
     "SM/데이터 흐름도.md",
     "SM/아키텍처V1.1.md",
     "SM/버전관리.md",
