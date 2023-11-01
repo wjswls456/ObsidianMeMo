@@ -4,45 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "447305b0659ba663",
+        "id": "37eb938502170434",
         "type": "tabs",
         "children": [
           {
-            "id": "41d952b8e0df6faf",
+            "id": "a2bc2bbc2aaba19e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SM/테스트 케이스.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f21c98f30ed19ee6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "SM/데이터 흐름도.md"
-              }
-            }
-          },
-          {
-            "id": "4d5666724bba77d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SM/버전관리.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SM/데이터 흐름도.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SM/데이터 흐름도.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SM/데이터 흐름도.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -171,26 +140,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f21c98f30ed19ee6",
+  "active": "a2bc2bbc2aaba19e",
   "lastOpenFiles": [
-    "Flutter/무제 파일.md",
+    "SM/버전관리.md",
+    "문서/화면 점검리스트.md",
+    "SM/테스트 케이스.md",
     "정책/개인정보처리방침 26조.md",
+    "정책/크몽.md",
+    "SM/데이터 흐름도.md",
+    "Flutter/무제 파일.md",
     "정책/개인정보처리방침 참고 법령.md",
     "정책/개인정보처리방침 참고 법령 -.md",
     "정책/개인정보처리방침.md",
     "정책/무제 파일.md",
-    "SM/테스트 케이스.md",
-    "SM/데이터 흐름도.md",
     "SM/Timart SM 문서 양식.md",
     "SM/아키텍처V1.1.md",
-    "SM/버전관리.md",
-    "문서/화면 점검리스트.md",
     "SM/SM 문서.md",
     "버전 1.md",
     "버전 3.md",
     "버전 2.md",
     "버전 4.md",
-    "정책/크몽.md",
     "정책",
     "SM",
     "도커/Docker.md",
