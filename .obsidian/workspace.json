@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c5f2d676a0449496",
@@ -147,7 +146,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e5db829a6df9b636",
+  "active": "a2bc2bbc2aaba19e",
   "lastOpenFiles": [
     "SM/버전관리.md",
     "SM/아키텍처V1.1.md",
