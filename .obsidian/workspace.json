@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "37eb938502170434",
+        "id": "419bff4e49cd564d",
         "type": "tabs",
         "children": [
           {
-            "id": "a2bc2bbc2aaba19e",
+            "id": "780e13d6556e1c5c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "SM/데이터 흐름도.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SM/데이터 흐름도.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SM/데이터 흐름도.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SM/데이터 흐름도.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -146,8 +140,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a2bc2bbc2aaba19e",
+  "active": "780e13d6556e1c5c",
   "lastOpenFiles": [
+    "SM/데이터 흐름도.md",
     "SM/버전관리.md",
     "SM/아키텍처V1.1.md",
     "SM/테스트 케이스.md",
@@ -155,7 +150,6 @@
     "문서/화면 점검리스트.md",
     "정책/개인정보처리방침 26조.md",
     "정책/크몽.md",
-    "SM/데이터 흐름도.md",
     "Flutter/무제 파일.md",
     "정책/개인정보처리방침 참고 법령.md",
     "정책/개인정보처리방침 참고 법령 -.md",
